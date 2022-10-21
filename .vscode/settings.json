@@ -1,0 +1,12 @@
+// .vscode/settings.json
+{
+  "liveSassCompile.settings.includeItems": [
+    "/assets/css/main.scss"
+  ],
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".css"
+    }
+  ]
+}
